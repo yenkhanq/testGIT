@@ -12,5 +12,6 @@ public class test extends AppCompatActivity {
         setContentView(R.layout.activity_test);
 
         //test commit a
+        //test commit b
     }
 }
